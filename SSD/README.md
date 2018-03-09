@@ -2,7 +2,7 @@
 SSD
 
 
-Class ID:  
+Class ID:  Eevee
 
 SRS ID: CST116SRS06  
 
@@ -10,9 +10,9 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:  
+Partner Left: Taillow
 
-Partner Right:  
+Partner Right: Vulpix
 
 ---
 
